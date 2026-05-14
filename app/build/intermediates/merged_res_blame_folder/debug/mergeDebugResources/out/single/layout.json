@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.nammamistri.app-mergeDebugResources-39:/layout/bottom_sheet_worker.xml",
+        "source": "com.nammamistri.app-main-42:/layout/bottom_sheet_worker.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-mergeDebugResources-39:/layout/fragment_calculator.xml",
+        "source": "com.nammamistri.app-main-42:/layout/fragment_calculator.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-mergeDebugResources-39:/layout/activity_add_site.xml",
+        "source": "com.nammamistri.app-main-42:/layout/activity_add_site.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "com.nammamistri.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-mergeDebugResources-39:/layout/item_site.xml",
+        "source": "com.nammamistri.app-main-42:/layout/item_site.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-mergeDebugResources-39:/layout/activity_site_detail.xml",
+        "source": "com.nammamistri.app-main-42:/layout/activity_site_detail.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-mergeDebugResources-39:/layout/fragment_workers.xml",
+        "source": "com.nammamistri.app-main-42:/layout/fragment_workers.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-mergeDebugResources-39:/layout/item_worker.xml",
+        "source": "com.nammamistri.app-main-42:/layout/item_worker.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-mergeDebugResources-39:/layout/activity_register.xml",
+        "source": "com.nammamistri.app-main-42:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-mergeDebugResources-39:/layout/activity_add_worker.xml",
+        "source": "com.nammamistri.app-main-42:/layout/activity_add_worker.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-mergeDebugResources-39:/layout/fragment_sites.xml",
+        "source": "com.nammamistri.app-main-42:/layout/fragment_sites.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-mergeDebugResources-39:/layout/activity_login.xml",
+        "source": "com.nammamistri.app-main-42:/layout/activity_login.xml"
+    }
+]

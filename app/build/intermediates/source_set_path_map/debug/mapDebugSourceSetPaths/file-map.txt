@@ -1,0 +1,43 @@
+com.nammamistri.app-emoji2-1.2.0-0 C:\Users\irfan\.gradle\caches\transforms-4\03bffc091ecc53d25c8b64a0f3044046\transformed\emoji2-1.2.0\res
+com.nammamistri.app-lifecycle-livedata-core-ktx-2.7.0-1 C:\Users\irfan\.gradle\caches\transforms-4\0c0cfe1e92867e32bb4a5a2636ea4eb9\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.nammamistri.app-cardview-1.0.0-2 C:\Users\irfan\.gradle\caches\transforms-4\0ce61a743c3d8cbec170e7a0bd8b5aeb\transformed\cardview-1.0.0\res
+com.nammamistri.app-appcompat-1.6.1-3 C:\Users\irfan\.gradle\caches\transforms-4\165d99d7732e35e869267fa5c7749fb3\transformed\appcompat-1.6.1\res
+com.nammamistri.app-activity-1.8.0-4 C:\Users\irfan\.gradle\caches\transforms-4\1dba3565ef631f59f3cf51e44d4ac84e\transformed\activity-1.8.0\res
+com.nammamistri.app-coordinatorlayout-1.1.0-5 C:\Users\irfan\.gradle\caches\transforms-4\1f7c6e3511f23b2b6286a2dfd393b188\transformed\coordinatorlayout-1.1.0\res
+com.nammamistri.app-annotation-experimental-1.3.0-6 C:\Users\irfan\.gradle\caches\transforms-4\31c0b42770feab0dca43f8307e0f3a78\transformed\annotation-experimental-1.3.0\res
+com.nammamistri.app-core-1.12.0-7 C:\Users\irfan\.gradle\caches\transforms-4\31c9c2c9ed24309ffe2d262735dfcdc6\transformed\core-1.12.0\res
+com.nammamistri.app-firebase-common-20.4.2-8 C:\Users\irfan\.gradle\caches\transforms-4\3d61bf61d66fe52758b9b5221840ea25\transformed\firebase-common-20.4.2\res
+com.nammamistri.app-transition-1.2.0-9 C:\Users\irfan\.gradle\caches\transforms-4\44144360dfccfe567f63ee28634c9e9d\transformed\transition-1.2.0\res
+com.nammamistri.app-browser-1.4.0-10 C:\Users\irfan\.gradle\caches\transforms-4\4ab54157e9543029798726e7cdc7e365\transformed\browser-1.4.0\res
+com.nammamistri.app-appcompat-resources-1.6.1-11 C:\Users\irfan\.gradle\caches\transforms-4\4e794169dd6b15680cda50ab0d569162\transformed\appcompat-resources-1.6.1\res
+com.nammamistri.app-material-1.11.0-12 C:\Users\irfan\.gradle\caches\transforms-4\4f4f31448959e65cf46f45e0ec3594ce\transformed\material-1.11.0\res
+com.nammamistri.app-savedstate-1.2.1-13 C:\Users\irfan\.gradle\caches\transforms-4\5257a5aa2eeee82099d2af681353da8c\transformed\savedstate-1.2.1\res
+com.nammamistri.app-lifecycle-runtime-2.7.0-14 C:\Users\irfan\.gradle\caches\transforms-4\5d35658cbd53dce2a11f8a3e06fda096\transformed\lifecycle-runtime-2.7.0\res
+com.nammamistri.app-lifecycle-process-2.7.0-15 C:\Users\irfan\.gradle\caches\transforms-4\5f428439e0b5f3be337fe30f5373b453\transformed\lifecycle-process-2.7.0\res
+com.nammamistri.app-lifecycle-livedata-ktx-2.7.0-16 C:\Users\irfan\.gradle\caches\transforms-4\699a8af80125eef56b1e01d06286003a\transformed\lifecycle-livedata-ktx-2.7.0\res
+com.nammamistri.app-lifecycle-livedata-core-2.7.0-17 C:\Users\irfan\.gradle\caches\transforms-4\858647e90839f2e35a4c86ddbf01935b\transformed\lifecycle-livedata-core-2.7.0\res
+com.nammamistri.app-emoji2-views-helper-1.2.0-18 C:\Users\irfan\.gradle\caches\transforms-4\8d537eab07306563fdfb14cb72f5884d\transformed\emoji2-views-helper-1.2.0\res
+com.nammamistri.app-profileinstaller-1.3.0-19 C:\Users\irfan\.gradle\caches\transforms-4\9868c65b30c3fbb7d7ea88ee29587c5d\transformed\profileinstaller-1.3.0\res
+com.nammamistri.app-core-runtime-2.2.0-20 C:\Users\irfan\.gradle\caches\transforms-4\98b2d487a2dcf4323f1b3b0ef15a092f\transformed\core-runtime-2.2.0\res
+com.nammamistri.app-startup-runtime-1.1.1-21 C:\Users\irfan\.gradle\caches\transforms-4\9a9ad2afdbddacd7ca2d22d010f878fa\transformed\startup-runtime-1.1.1\res
+com.nammamistri.app-recyclerview-1.3.2-22 C:\Users\irfan\.gradle\caches\transforms-4\a5e6bf00bdb7e94b30af444e30f650e4\transformed\recyclerview-1.3.2\res
+com.nammamistri.app-lifecycle-viewmodel-2.7.0-23 C:\Users\irfan\.gradle\caches\transforms-4\a775a23bb7da21b9bb20621ce17a92c2\transformed\lifecycle-viewmodel-2.7.0\res
+com.nammamistri.app-constraintlayout-2.1.4-24 C:\Users\irfan\.gradle\caches\transforms-4\ac9b5206915986b1744dcec5f3aaa3fd\transformed\constraintlayout-2.1.4\res
+com.nammamistri.app-drawerlayout-1.1.1-25 C:\Users\irfan\.gradle\caches\transforms-4\ae3d61c283c151b95f3a4191ef2f94d3\transformed\drawerlayout-1.1.1\res
+com.nammamistri.app-fragment-1.3.6-26 C:\Users\irfan\.gradle\caches\transforms-4\b2a10aecd75a9c9ae2da2d57e341d566\transformed\fragment-1.3.6\res
+com.nammamistri.app-customview-poolingcontainer-1.0.0-27 C:\Users\irfan\.gradle\caches\transforms-4\b362f6bb3b20776c92199c5d5c0d8b7a\transformed\customview-poolingcontainer-1.0.0\res
+com.nammamistri.app-lifecycle-livedata-2.7.0-28 C:\Users\irfan\.gradle\caches\transforms-4\b8d6cd9c5f5aa6c80783462d5e03351a\transformed\lifecycle-livedata-2.7.0\res
+com.nammamistri.app-lifecycle-viewmodel-savedstate-2.7.0-29 C:\Users\irfan\.gradle\caches\transforms-4\be603061271288a1766b59a4a462d81d\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.nammamistri.app-viewpager2-1.1.0-beta02-30 C:\Users\irfan\.gradle\caches\transforms-4\cab2aab66d230c3c43c68ac010bd431e\transformed\viewpager2-1.1.0-beta02\res
+com.nammamistri.app-play-services-base-18.0.1-31 C:\Users\irfan\.gradle\caches\transforms-4\d078afd0ba6c916ef572921212ca2549\transformed\play-services-base-18.0.1\res
+com.nammamistri.app-play-services-basement-18.1.0-32 C:\Users\irfan\.gradle\caches\transforms-4\f85e930cd85bab3f8f6c97fe77cd4211\transformed\play-services-basement-18.1.0\res
+com.nammamistri.app-lifecycle-viewmodel-ktx-2.7.0-33 C:\Users\irfan\.gradle\caches\transforms-4\fa94403ee0439ae676fb30ce9d39b7f1\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.nammamistri.app-core-ktx-1.12.0-34 C:\Users\irfan\.gradle\caches\transforms-4\faf45a2fc78ff3a1a06481f25bf8dcd0\transformed\core-ktx-1.12.0\res
+com.nammamistri.app-pngs-35 C:\Users\irfan\Downloads\NammaMistri (1)\NammaMistri\app\build\generated\res\pngs\debug
+com.nammamistri.app-res-36 C:\Users\irfan\Downloads\NammaMistri (1)\NammaMistri\app\build\generated\res\processDebugGoogleServices
+com.nammamistri.app-resValues-37 C:\Users\irfan\Downloads\NammaMistri (1)\NammaMistri\app\build\generated\res\resValues\debug
+com.nammamistri.app-packageDebugResources-38 C:\Users\irfan\Downloads\NammaMistri (1)\NammaMistri\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.nammamistri.app-packageDebugResources-39 C:\Users\irfan\Downloads\NammaMistri (1)\NammaMistri\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.nammamistri.app-debug-40 C:\Users\irfan\Downloads\NammaMistri (1)\NammaMistri\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.nammamistri.app-debug-41 C:\Users\irfan\Downloads\NammaMistri (1)\NammaMistri\app\src\debug\res
+com.nammamistri.app-main-42 C:\Users\irfan\Downloads\NammaMistri (1)\NammaMistri\app\src\main\res

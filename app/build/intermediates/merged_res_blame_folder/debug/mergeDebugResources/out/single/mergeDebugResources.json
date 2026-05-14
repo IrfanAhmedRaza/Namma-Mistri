@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.nammamistri.app-debug-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.nammamistri.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/layout_item_site.xml.flat",
+        "source": "com.nammamistri.app-main-42:/layout/item_site.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/layout_fragment_calculator.xml.flat",
+        "source": "com.nammamistri.app-main-42:/layout/fragment_calculator.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.nammamistri.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/layout_activity_main.xml.flat",
+        "source": "com.nammamistri.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/layout_item_worker.xml.flat",
+        "source": "com.nammamistri.app-main-42:/layout/item_worker.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.nammamistri.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/menu_main_menu.xml.flat",
+        "source": "com.nammamistri.app-main-42:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/layout_bottom_sheet_worker.xml.flat",
+        "source": "com.nammamistri.app-main-42:/layout/bottom_sheet_worker.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.nammamistri.app-main-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.nammamistri.app-main-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/layout_activity_site_detail.xml.flat",
+        "source": "com.nammamistri.app-main-42:/layout/activity_site_detail.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/layout_activity_add_worker.xml.flat",
+        "source": "com.nammamistri.app-main-42:/layout/activity_add_worker.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/layout_activity_register.xml.flat",
+        "source": "com.nammamistri.app-main-42:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.nammamistri.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.nammamistri.app-main-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/layout_fragment_workers.xml.flat",
+        "source": "com.nammamistri.app-main-42:/layout/fragment_workers.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.nammamistri.app-main-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/layout_activity_login.xml.flat",
+        "source": "com.nammamistri.app-main-42:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/layout_activity_add_site.xml.flat",
+        "source": "com.nammamistri.app-main-42:/layout/activity_add_site.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/layout_fragment_sites.xml.flat",
+        "source": "com.nammamistri.app-main-42:/layout/fragment_sites.xml"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.nammamistri.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nammamistri.app-debug-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.nammamistri.app-main-42:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,4 @@
+com.nammamistri.test.app-androidTest-0 C:\Users\irfan\Downloads\NammaMistri (1)\NammaMistri\app\build\generated\res\resValues\androidTest\debug
+com.nammamistri.test.app-mergeDebugAndroidTestResources-1 C:\Users\irfan\Downloads\NammaMistri (1)\NammaMistri\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.nammamistri.test.app-mergeDebugAndroidTestResources-2 C:\Users\irfan\Downloads\NammaMistri (1)\NammaMistri\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.nammamistri.test.app-debugAndroidTest-3 C:\Users\irfan\Downloads\NammaMistri (1)\NammaMistri\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

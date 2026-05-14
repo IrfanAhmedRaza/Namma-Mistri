@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923661840095",
+    "project_id": "nammamistri-fd14d",
+    "storage_bucket": "nammamistri-fd14d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923661840095:android:7745b702d650f0d052c36a",
+        "android_client_info": {
+          "package_name": "com.nammamistri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVcA6H93tMgBfGrVvsEHKwg-lLyT-ee-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
